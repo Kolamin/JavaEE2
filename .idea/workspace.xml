@@ -6,7 +6,16 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2661bf7-ee0a-4979-92b4-de7f4be1755a" name="Default Changelist" comment="" />
+    <list default="true" id="e2661bf7-ee0a-4979-92b4-de7f4be1755a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/somePackage/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/showCart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JavaEETest_war_exploded/WEB-INF/classes/FirstServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JavaEETest_war_exploded/WEB-INF/classes/FirstServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaEETest/FirstServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaEETest/FirstServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstServlet.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +25,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -30,8 +42,10 @@
   </component>
   <component name="ProjectId" id="1SGq8tZJRok0jjBwBOAUfiDTlfk" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -268,17 +282,6 @@
         </option>
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Tomcat Server.Tomcat 9.0.27" />
-      <item itemvalue="Tomcat Server.firstJsp.jsp" />
-      <item itemvalue="Tomcat Server.firstJsp.jsp (1)" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Tomcat Server.firstJsp.jsp (1)" />
-        <item itemvalue="Tomcat Server.firstJsp.jsp" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -294,10 +297,24 @@
       <workItem from="1571283105968" duration="7286000" />
       <workItem from="1571300124954" duration="2865000" />
       <workItem from="1571309147333" duration="2404000" />
+      <workItem from="1571324596910" duration="2864000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
